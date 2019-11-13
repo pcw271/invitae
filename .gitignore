@@ -1,0 +1,30 @@
+# compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.DS_Store
+*.py[co]
+
+# packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+
+# extensions
+*.htaccess
+
+# directories
+build/**
+conda/**
+env/**
+
+# ide
+.spyproject
+.vscode
